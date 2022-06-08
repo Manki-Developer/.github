@@ -2,6 +2,11 @@
 
 ## Hi there, we're Manki Squad 👋
 
+## Members
+
+- selimut123
+- guerillabob
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
@@ -13,6 +18,9 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
 <br/>
+<br/>
 
-## That's all from us, Thank you for visiting.
-![](https://giphy.com/embed/l2QE1bH4wvCE8CcTK)
+## That's all from us, Thank you!
+
+![giphy_2](https://user-images.githubusercontent.com/80026779/172545621-5bbb545d-d794-440c-bbde-9da20ee754d6.gif)
+![](https://user-images.githubusercontent.com/80026779/172545156-885941dc-3b2f-4af8-9e54-b4ec4177810d.gif)
