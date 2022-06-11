@@ -6,6 +6,8 @@
 
 - selimut123
 - andrewtian06
+- gonszalito
+- albertn86
 
 ### Languages and Tools:
 
